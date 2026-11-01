@@ -1,0 +1,50 @@
+[
+    {
+        "student_id": "S101",
+        "name": "Aman",
+        "department": "CSE",
+        "marks": [
+            78,
+            65,
+            88
+        ]
+    },
+    {
+        "student_id": "S102",
+        "name": "Riya",
+        "department": "CSE",
+        "marks": [
+            35,
+            72
+        ]
+    },
+    {
+        "student_id": "S103",
+        "department": "CSE",
+        "marks": [
+            90,
+            80,
+            70
+        ]
+    },
+    {
+        "student_id": "S101",
+        "name": "Rahul",
+        "department": "ECE",
+        "marks": [
+            60,
+            60,
+            60
+        ]
+    },
+    {
+        "student_id": "S104",
+        "name": "Neha",
+        "department": "CSE",
+        "marks": [
+            101,
+            20,
+            30
+        ]
+    }
+]
